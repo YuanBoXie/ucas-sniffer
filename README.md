@@ -4,7 +4,7 @@
 > 代码存疑的地方如果有同学后面 review 我的代码可以帮忙解答一下疑惑，感激不尽~
 
 # 依赖
-- node v16.20.2
+- node v16.13.0
 ```bash
 yarn add ant-design-vue
 yarn add babel-plugin-import
